@@ -1,0 +1,2 @@
+# spring.factories
+org.springframework.boot.SpringApplicationRunListener=com.example.demo.config.DotenvPropertySourceLoader
